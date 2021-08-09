@@ -1,8 +1,5 @@
 # 数学建模资源
 
-### 2018.9.15 祝大家比赛开心 （^_^）
-### 2018.9.19 比赛已经结束，大家耐心等待获奖吧（^o^）
-#### 2018.11.11 比赛结果经过一个半月的评审，终于在昨天公布了[获奖名单](https://github.com/zhanwen/MathModel/tree/master/2018%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)，大家的努力相信都会有所收获。余生还有很多有意义的事情需要我们去做，让我们一起努力。(o^^o)
 
 <hr>  
 
@@ -179,21 +176,3 @@
    
 ### 声明
 * 其中有些内容整理自互联网，如有侵权，请联系，我将及时处理。
-
-### 个人微信公众号
-* `dotzhang`：一名不羁的学僧，我的世界不只有学术。一条迷途的咸鱼，正在游向属于它的天地！  
-<img src="/images/donate/common.jpg" width="150" height="150" alt="weixin"/>
-
-
-### 赞助和支持
-
-这些内容都是我花了不少时间整理出来的, 如果你觉得它对你很有帮助, 请你也分享给需要学习的朋友们。如果你看好我的内容分享, 也可以考虑适当的赞助打赏, 让我有更多的动力去继续分享更好的内容给大家。  
-
-| 微信 | 支付宝  |
-| ------ | ------ |
-| <img src="images/donate/weixinpay.jpg" width="150" height="150" alt="pay check"/> | <img src="images/donate/alipay.jpg" width="150" height="150" alt="pay check"/>   |  
-   
-### 联系
-* Email：[hanwenme@gmail.com](https://mail.google.com/)
-* 微&nbsp;&nbsp;信（有任何问题都可以直接怼我）：  
-<img src="images/donate/wechat.png" width="150" height="150" alt="pay check"/>
