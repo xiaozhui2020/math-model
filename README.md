@@ -3,11 +3,13 @@
 
 <hr>  
 
-#### 更新/添加比赛官网地址[戳这里](https://cpipc.chinadegrees.cn/)   
-* [数学建模竞赛](https://cpipc.chinadegrees.cn/cw/hp/4)     
+#### 更新/添加比赛官网地址[戳这里](https://cpipc.chinadegrees.cn/)
+*[全国大学生数学建模竞赛](http://www.mcm.edu.cn/)   
+* [研究生数学建模竞赛](https://cpipc.chinadegrees.cn/cw/hp/4)     
 * [电子设计竞赛](https://cpipc.chinadegrees.cn/cw/hp/6)     
 * [人工智能创新大赛](https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd)     
 * [机器人创新设计大赛](https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8934810be)
+*[全国大学生数学建模竞赛](http://www.mcm.edu.cn/)
 
 <hr/>
 
